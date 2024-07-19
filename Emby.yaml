@@ -23,3 +23,9 @@ payload:
   - DOMAIN,1111cuct.niceduck.lol                  # 好鸭1111
   - DOMAIN,emby-us-v4.mius.uk                     # 牢大的野兽餐厅 US-V4
   - DOMAIN,emby-fr-v6.mius.uk                     # 牢大的野兽餐厅 FR-V6
+  - DOMAIN-SUFFIX,mius.uk
+  - DOMAIN-SUFFIX,niceduck.lol
+  - DOMAIN-SUFFIX,misakaf.org
+  - DOMAIN-SUFFIX,aca.best
+  - DOMAIN-KEYWORD,pilipili
+  - DOMAIN-KEYWORD,emby
