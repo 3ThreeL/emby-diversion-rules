@@ -30,3 +30,6 @@ payload:
   - DOMAIN-SUFFIX,aca.best
   - DOMAIN-KEYWORD,pilipili
   - DOMAIN-KEYWORD,emby
+  - PROCESS-NAME,electron.exe
+  - PROCESS-NAME,mpv.exe
+
