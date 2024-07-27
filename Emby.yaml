@@ -24,6 +24,7 @@ payload:
   - DOMAIN,emby-us-v4.mius.uk                     # 牢大的野兽餐厅 US-V4
   - DOMAIN,emby-fr-v6.mius.uk                     # 牢大的野兽餐厅 FR-V6
   - DOMAIN,emby.cn2gias.uk                        # 守候影院
+  - DOMAIN,shsiis.cloudfisher.cc                  # 渔云Emby
   - DOMAIN-SUFFIX,mius.uk
   - DOMAIN-SUFFIX,niceduck.lol
   - DOMAIN-SUFFIX,misakaf.org
