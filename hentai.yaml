@@ -8,3 +8,6 @@ payload:
   - DOMAIN-KEYWORD,pornhub
   - DOMAIN-KEYWORD,youporn
   - DOMAIN-KEYWORD,xvideos
+  - DOMAIN-SUFFIX,spotify.com
+  - DOMAIN-SUFFIX,scdn.co
+  - PROCESS-NAME,Spotify
