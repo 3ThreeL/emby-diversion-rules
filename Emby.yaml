@@ -21,8 +21,12 @@ payload:
   - DOMAIN,jms1v6.niceduck.lol                    # 好鸭JMS - 移动v6
   - DOMAIN,jms2.niceduck.lol                      # 好鸭JMS - 联通 电信
   - DOMAIN,1111cuct.niceduck.lol                  # 好鸭1111
+  - DOMAIN,e.nicedack.me                          # 好鸭线路
   - DOMAIN,cf.niceduck.lol                        # 好鸭cf线路
+  - DOMAIN,vi.nicedack.lol                        # 好鸭线路
+  - DOMAIN,pilicf.nicedack.lol                    # 好鸭pilipii
   - DOMAIN,emby-us-v4.mius.uk                     # 牢大的野兽餐厅 US-V4
+  - DOMAIN,emby-micax-ca-v2.mius.uk               # 牢大的野兽餐厅
   - DOMAIN,emby-fr-v6.mius.uk                     # 牢大的野兽餐厅 FR-V6
   - DOMAIN,emby.cn2gias.uk                        # 守候影院
   - DOMAIN,shsiis.cloudfisher.cc                  # 渔云Emby
