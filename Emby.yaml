@@ -21,6 +21,7 @@ payload:
   - DOMAIN,jms1v6.niceduck.lol                    # 好鸭JMS - 移动v6
   - DOMAIN,jms2.niceduck.lol                      # 好鸭JMS - 联通 电信
   - DOMAIN,1111cuct.niceduck.lol                  # 好鸭1111
+  - DOMAIN,dpxcf.niceduck.lol                     # 好鸭地平线
   - DOMAIN,e.nicedack.me                          # 好鸭线路
   - DOMAIN,cf.niceduck.lol                        # 好鸭cf线路
   - DOMAIN,vi.nicedack.lol                        # 好鸭线路
