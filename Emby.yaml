@@ -4,38 +4,73 @@ payload:
   - DOMAIN,porn.aca.best                          # ACA Pron Emby
   - DOMAIN,stream.ntrrr.top                       # SYN Emby
   - DOMAIN,e01.811920.xyz                         # TDD Emby
+  - DOMAIN,cf.imetyou.top                         # paul_电报服
   - DOMAIN,free.xmsl.org                          # 垃圾影音 - 中转线路
   - DOMAIN,cf.emby.ml                             # 垃圾影音 - CF线路
-  - DOMAIN,emby.pilipiliultra.top                 # PiliPili - 主线路
-  - DOMAIN,emby.pilipiliultra.com                 # PiliPili - CF路
-  - DOMAIN,embyplus.org                           # 纸片人
-  - DOMAIN,stream1.misakaf.org                    # MisakaF
-  - DOMAIN,stream2.misakaf.org                    # MisakaF
-  - DOMAIN,stream3.misakaf.org                    # MisakaF
-  - DOMAIN,stream4.misakaf.org                    # MisakaF
   - DOMAIN,hxd.as174.com                          # HXD - 主线路
   - DOMAIN,cf.bili.rip                            # HXD - CF线路
-  - DOMAIN,789.123456.al                          # TreeDiagram
-  - DOMAIN,cc.coemn.com                           # CC公益
+
+  # PiliPili
+  - DOMAIN,pilipili.club
+  - DOMAIN-SUFFIX,pilipili.club
+  
+  # 好鸭
+  - DOMAIN,jcf.niceduck.lol                       # 好鸭JMS
   - DOMAIN,jms1.niceduck.lol                      # 好鸭JMS - 移动
   - DOMAIN,jms1v6.niceduck.lol                    # 好鸭JMS - 移动v6
   - DOMAIN,jms2.niceduck.lol                      # 好鸭JMS - 联通 电信
-  - DOMAIN,1111cuct.niceduck.lol                  # 好鸭1111
-  - DOMAIN,dpxcdn.niceduck.lol                    # 好鸭地平线
-  - DOMAIN,e.nicedack.me                          # 好鸭线路
-  - DOMAIN,cf.niceduck.lol                        # 好鸭cf线路
-  - DOMAIN,vi.nicedack.lol                        # 好鸭线路
-  - DOMAIN,pilicf.nicedack.lol                    # 好鸭pilipii
-  - DOMAIN,emby-us-v4.mius.uk                     # 牢大的野兽餐厅 US-V4
-  - DOMAIN,emby-micax-ca-v2.mius.uk               # 牢大的野兽餐厅
-  - DOMAIN,emby-fr-v6.mius.uk                     # 牢大的野兽餐厅 FR-V6
-  - DOMAIN,emby.cn2gias.uk                        # 守候影院
-  - DOMAIN,shsiis.cloudfisher.cc                  # 渔云Emby
+  - DOMAIN,dpxcf.niceduck.lol                     # 好鸭地平线
+  - DOMAIN,dpx1.niceduck.lol                      # 好鸭地平线 - 移动
+  - DOMAIN,dpx1v6.niceduck.lol                    # 好鸭地平线 - 移动v6
+  - DOMAIN,dpx2.niceduck.lol                      # 好鸭地平线 - 联通 电信
+  - DOMAIN,cf.niceduck.lol                        # 好鸭1111
+
+  # 纸片人
+  - DOMAIN,embyplus.org
+  
+  # 终点站
+  - DOMAIN,pub1.emby.wtf                          #大妹 - 主用
+  - DOMAIN,pub1.term.wtf                          #大妹 - 备用
+  - DOMAIN,pub2.emby.wtf                          #二妹 - 主用
+  - DOMAIN,pub2.term.wtf                          #二妹 - 备用
+  - DOMAIN,pub3.emby.wtf                          #三妹 - 主用
+  - DOMAIN,pub3.term.wtf                          #三妹 - 备用
+  
+  # CC公益
+  - DOMAIN,cc.coemn.com
+  - DOMAIN,cc.embycc.link
+  
+  # 牢大的野兽餐厅
+  - DOMAIN,emby-mica-us-v1.mius.uk
+  - DOMAIN,emby-micax-ca-v2.mius.uk
+  - DOMAIN,emby-mica-hk-v4.mius.uk
+  - DOMAIN,emby-mica-yxvm-hk-v4.mius.uk
+  - DOMAIN,emby-mica-hk3-v4.mius.uk
+
+  # 二刺螈EMBY
+  - DOMAIN,initial.nijigem.by
+  - DOMAIN,media.nijigem.by
+  
+  # MisakaF
+  - DOMAIN,stream1.misakaf.org
+  - DOMAIN,stream2.misakaf.org
+  - DOMAIN,stream3.misakaf.org
+  - DOMAIN,stream4.misakaf.org
+  
+  # TreeDiagram
+  - DOMAIN,789.123456.al
+  
+  # 守候影院
+  - DOMAIN,emby.cn2gias.uk
+
+  # 渔云Emby
+  - DOMAIN,shsiis.cloudfisher.cc
+  
   - DOMAIN-SUFFIX,mius.uk
   - DOMAIN-SUFFIX,niceduck.lol
   - DOMAIN-SUFFIX,misakaf.org
-  - DOMAIN-SUFFIX,aca.best
   - DOMAIN-KEYWORD,pilipili
+  - DOMAIN-KEYWORD,pili
   - DOMAIN-KEYWORD,emby
   - PROCESS-NAME,electron.exe
   - PROCESS-NAME,mpv.exe
