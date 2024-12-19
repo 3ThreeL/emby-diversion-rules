@@ -12,6 +12,7 @@ payload:
 
   # PiliPili
   - DOMAIN,pilipili.club
+  - DOMAIN,pilipili.misakaf.org
   - DOMAIN-SUFFIX,pilipili.club
   
   # 好鸭
