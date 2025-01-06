@@ -28,6 +28,14 @@ payload:
 
   # 纸片人
   - DOMAIN,embyplus.org
+
+  # 起点站
+  - DOMAIN,emby-qdz-jp.pppp.us.kg                 #软银  
+  - DOMAIN,emby-qdz-sg.pppp.us.kg                 #新加坡西
+  - DOMAIN,emby-qdz-hk.pppp.us.kg                 #香港  
+  - DOMAIN,emby-qdz-us-sj.pppp.us.kg              #圣何塞
+  - DOMAIN-KEYWORD,tdck.fun                       #cf路线 (https://tdck.fun/web/index.html)
+  - IP-CIDR,192.99.35.111/32,no-resolve           #直连
   
   # 终点站
   - DOMAIN,pub1.emby.wtf                          #大妹 - 主用
