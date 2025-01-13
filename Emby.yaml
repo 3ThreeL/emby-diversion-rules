@@ -83,4 +83,4 @@ payload:
   - DOMAIN-KEYWORD,emby
   - PROCESS-NAME,electron.exe
   - PROCESS-NAME,mpv.exe
-
+  - PROCESS-NAME,com.mountains.hills
