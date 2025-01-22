@@ -35,7 +35,13 @@ payload:
   - DOMAIN,emby-qdz-hk.pppp.us.kg                 #香港  
   - DOMAIN,emby-qdz-us-sj.pppp.us.kg              #圣何塞
   - DOMAIN-KEYWORD,tdck.fun                       #cf路线 (https://tdck.fun/web/index.html)
+  - DOMAIN,favoritewife.com                       #主域名 
+  - DOMAIN,qdz-sg.vfing.de                        #新加坡移动
+  - DOMAIN,qdz-de.vfing.de                        #德国联通
+  - DOMAIN,qdz-hk-0.vfing.de                      #香港1移动
+  - DOMAIN,qdz-hk-1.vfing.de                      #香港2移动
   - IP-CIDR,192.99.35.111/32,no-resolve           #直连
+  - DOMAIN-KEYWORD,qde
   
   # 终点站
   - DOMAIN,pub1.emby.wtf                          #大妹 - 主用
