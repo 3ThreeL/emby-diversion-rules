@@ -90,3 +90,4 @@ payload:
   - PROCESS-NAME,electron.exe
   - PROCESS-NAME,mpv.exe
   - PROCESS-NAME,com.mountains.hills
+  - PROCESS-NAME,com.hush.yamby
