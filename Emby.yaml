@@ -42,6 +42,7 @@ payload:
   - DOMAIN,qdz-hk-1.vfing.de                      #香港2移动
   - IP-CIDR,192.99.35.111/32,no-resolve           #直连
   - DOMAIN-KEYWORD,qde
+  - DOMAIN,free.28.al
   
   # 终点站
   - DOMAIN,pub1.emby.wtf                          #大妹 - 主用
