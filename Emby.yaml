@@ -25,6 +25,8 @@ payload:
   - DOMAIN,dpx1v6.niceduck.lol                    # 好鸭地平线 - 移动v6
   - DOMAIN,dpx2.niceduck.lol                      # 好鸭地平线 - 联通 电信
   - DOMAIN,cf.niceduck.lol                        # 好鸭1111
+  - DOMAIN-SUFFIX,niceduck.lol
+  - DOMAIN-SUFFIX,emby.moe
 
   # 纸片人
   - DOMAIN,embyplus.org
