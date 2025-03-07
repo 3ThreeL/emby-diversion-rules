@@ -13,6 +13,9 @@ payload:
   # PiliPili
   - DOMAIN,pilipili.club
   - DOMAIN,pilipili.misakaf.org
+  - DOMAIN,emby.pilipiliultra.com
+  - DOMAIN,emby-direct.pilipiliultra.com
+  - DOMAIN-SUFFIX,pilipiliultra
   - DOMAIN-SUFFIX,pilipili.club
   
   # 好鸭
