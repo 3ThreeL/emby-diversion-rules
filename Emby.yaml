@@ -30,6 +30,7 @@ payload:
   - DOMAIN,cf.niceduck.lol                        # 好鸭1111
   - DOMAIN-SUFFIX,niceduck.lol
   - DOMAIN-SUFFIX,emby.moe
+  - DOMAIN-SUFFIX,xxlb.net
 
   # 纸片人
   - DOMAIN,embyplus.org
