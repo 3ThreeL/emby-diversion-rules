@@ -85,6 +85,9 @@ payload:
   # 守候影院
   - DOMAIN,emby.cn2gias.uk
 
+  # YKK
+  - DOMAIN,ykk.emby.moe
+
   # 渔云Emby
   - DOMAIN,shsiis.cloudfisher.cc
   
