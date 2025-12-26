@@ -4,6 +4,7 @@ payload:
   - DOMAIN,porn.aca.best                          # ACA Pron Emby
   - DOMAIN,stream.ntrrr.top                       # SYN Emby
   - DOMAIN,e01.811920.xyz                         # TDD Emby
+  - DOMAIN,emby.bangumi.ca                        # nyamedia
   - DOMAIN,cf.imetyou.top                         # paul_电报服
   - DOMAIN,free.xmsl.org                          # 垃圾影音 - 中转线路
   - DOMAIN,cf.emby.ml                             # 垃圾影音 - CF线路
@@ -15,7 +16,7 @@ payload:
   - DOMAIN,pilipili.misakaf.org
   - DOMAIN,emby.pilipiliultra.com
   - DOMAIN,emby-direct.pilipiliultra.com
-  - DOMAIN-SUFFIX,pilipiliultra
+  - DOMAIN-SUFFIX,pilipiliultra.com
   - DOMAIN-SUFFIX,pilipili.club
   
   # 好鸭
@@ -33,7 +34,7 @@ payload:
   - DOMAIN-SUFFIX,xxlb.net
 
   # 纸片人
-  - DOMAIN,embyplus.org
+  - DOMAIN-SUFFIX,embyplus.org
 
   # 起点站
   - DOMAIN,emby-qdz-jp.pppp.us.kg                 #软银  
@@ -99,5 +100,7 @@ payload:
   - DOMAIN-KEYWORD,emby
   - PROCESS-NAME,electron.exe
   - PROCESS-NAME,mpv.exe
+  - PROCESS-NAME,RodelPlayer.UI.exe
+  - PROCESS-NAME,RodelPlayer.Visor.exe
   - PROCESS-NAME,com.mountains.hills
   - PROCESS-NAME,com.hush.yamby
