@@ -89,6 +89,9 @@ payload:
   # YKK
   - DOMAIN,ykk.emby.moe
 
+  # OuO
+  - DOMAIN,random.ouonet.org
+
   # 渔云Emby
   - DOMAIN,shsiis.cloudfisher.cc
   
@@ -98,6 +101,7 @@ payload:
   - DOMAIN-KEYWORD,pilipili
   - DOMAIN-KEYWORD,pili
   - DOMAIN-KEYWORD,emby
+  - DOMAIN-KEYWORD,ouo
   - PROCESS-NAME,electron.exe
   - PROCESS-NAME,mpv.exe
   - PROCESS-NAME,RodelPlayer.UI.exe
