@@ -19,6 +19,8 @@ payload:
   - DOMAIN,emby-direct.pilipiliultra.com
   - DOMAIN-SUFFIX,pilipiliultra.com
   - DOMAIN-SUFFIX,pilipili.club
+  - DOMAIN-SUFFIX,mihoyo.biliblili.uk
+  - DOMAIN-SUFFIX,genshin.biliblili.uk
   
   # 好鸭
   - DOMAIN,jcf.niceduck.lol                       # 好鸭JMS
