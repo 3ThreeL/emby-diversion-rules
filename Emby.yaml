@@ -37,7 +37,7 @@ payload:
   - DOMAIN-SUFFIX,xxlb.net
 
   # 纸片人
-  - DOMAIN-SUFFIX,embyplus.org
+  - DOMAIN-SUFFIX,v2.embyplus.org
 
   # 起点站
   - DOMAIN,emby-qdz-jp.pppp.us.kg                 #软银  
@@ -106,6 +106,7 @@ payload:
   - DOMAIN-KEYWORD,genshin
   - DOMAIN-KEYWORD,emby
   - DOMAIN-KEYWORD,ouo
+  - DOMAIN-KEYWORD,embyplus
   - PROCESS-NAME,electron.exe
   - PROCESS-NAME,mpv.exe
   - PROCESS-NAME,RodelPlayer.UI.exe
