@@ -61,6 +61,12 @@ payload:
   - DOMAIN,pub2.term.wtf                          #二妹 - 备用
   - DOMAIN,pub3.emby.wtf                          #三妹 - 主用
   - DOMAIN,pub3.term.wtf                          #三妹 - 备用
+  - DOMAIN,c1.zdz.plus
+  - DOMAIN,c2.zdz.plus                            #美国入口
+  - DOMAIN,c.ha.zdz.plus
+  - DOMAIN,7056789.xyz                            #CF入口1
+  - DOMAIN,8056789.xyz                            #CF入口2
+  - DOMAIN,9056789.xyz                            #CF入口3
   
   # CC公益
   - DOMAIN,cc.coemn.com
