@@ -104,11 +104,13 @@ payload:
   # 渔云Emby
   - DOMAIN,shsiis.cloudfisher.cc
   
+  - DOMAIN-SUFFIX,zdz.plus
   - DOMAIN-SUFFIX,mius.uk
   - DOMAIN-SUFFIX,niceduck.lol
   - DOMAIN-SUFFIX,misakaf.org
   - DOMAIN-KEYWORD,pilipili
   - DOMAIN-KEYWORD,pili
+  - DOMAIN-KEYWORD,biliblili.uk
   - DOMAIN-KEYWORD,genshin
   - DOMAIN-KEYWORD,emby
   - DOMAIN-KEYWORD,ouo
